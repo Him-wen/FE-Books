@@ -11,6 +11,14 @@ module.exports = [
         ]
     },
     {
+        text: '博客',
+		items: [
+            {text: 'Github', link: 'http://www.github.com/Him-wen'},
+            //这里走一层路由直接到sidebar
+            {text: 'yuque', link: 'http://www.github.com/Him-wen'},
+        ]
+    },
+    {
         text: '工具箱',
         items: [
 			{

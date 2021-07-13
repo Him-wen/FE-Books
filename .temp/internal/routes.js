@@ -9,18 +9,6 @@ import GlobalLayout from "/Users/himwen/Develop/Github/FE-Books/node_modules/@vu
 injectComponentOption(GlobalLayout, 'mixins', rootMixins)
 export const routes = [
   {
-    name: "v-2df240f0",
-    path: "/baodian/high/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-2df240f0").then(next)
-    },
-  },
-  {
-    path: "/baodian/high/index.html",
-    redirect: "/baodian/high/"
-  },
-  {
     name: "v-00ee3ef8",
     path: "/",
     component: GlobalLayout,
@@ -33,20 +21,16 @@ export const routes = [
     redirect: "/"
   },
   {
-    name: "v-14713a23",
-    path: "/baodian/high/notes/DeepJS01.html",
+    name: "v-2df240f0",
+    path: "/baodian/high/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-14713a23").then(next)
+      ensureAsyncComponentsLoaded("Layout", "v-2df240f0").then(next)
     },
   },
   {
-    name: "v-29cde643",
-    path: "/baodian/high/notes/DeepJS02.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-29cde643").then(next)
-    },
+    path: "/baodian/high/index.html",
+    redirect: "/baodian/high/"
   },
   {
     name: "v-be1ba0ea",
@@ -57,40 +41,20 @@ export const routes = [
     },
   },
   {
+    name: "v-14713a23",
+    path: "/baodian/high/notes/DeepJS01.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-14713a23").then(next)
+    },
+  },
+  {
     name: "v-5ab35153",
     path: "/baodian/high/notes/two.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
       ensureAsyncComponentsLoaded("Layout", "v-5ab35153").then(next)
     },
-  },
-  {
-    name: "v-41e08147",
-    path: "/baodian/zero/notes/two.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-41e08147").then(next)
-    },
-  },
-  {
-    name: "v-038b71fe",
-    path: "/baodian/zero/notes/bd1.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-038b71fe").then(next)
-    },
-  },
-  {
-    name: "v-786f585e",
-    path: "/guide/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-786f585e").then(next)
-    },
-  },
-  {
-    path: "/guide/index.html",
-    redirect: "/guide/"
   },
   {
     name: "v-b5cc6370",
@@ -103,6 +67,30 @@ export const routes = [
   {
     path: "/baodian/zero/index.html",
     redirect: "/baodian/zero/"
+  },
+  {
+    name: "v-29cde643",
+    path: "/baodian/high/notes/DeepJS02.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-29cde643").then(next)
+    },
+  },
+  {
+    name: "v-038b71fe",
+    path: "/baodian/zero/notes/bd1.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-038b71fe").then(next)
+    },
+  },
+  {
+    name: "v-41e08147",
+    path: "/baodian/zero/notes/two.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-41e08147").then(next)
+    },
   },
   {
     name: "v-14576e7a",
@@ -118,6 +106,34 @@ export const routes = [
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
       ensureAsyncComponentsLoaded("Layout", "v-437ef683").then(next)
+    },
+  },
+  {
+    name: "v-786f585e",
+    path: "/guide/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-786f585e").then(next)
+    },
+  },
+  {
+    path: "/guide/index.html",
+    redirect: "/guide/"
+  },
+  {
+    name: "v-7ed20e05",
+    path: "/baodian/zero/notes/cdn.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-7ed20e05").then(next)
+    },
+  },
+  {
+    name: "v-5e8fbbe6",
+    path: "/baodian/zero/notes/dns.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-5e8fbbe6").then(next)
     },
   },
   {

@@ -5,6 +5,8 @@ module.exports = [
                   children:[
                     '/baodian/zero/notes/bd1',//指向相关.md
                     '/baodian/zero/notes/two',
+                    '/baodian/zero/notes/cdn',
+                    '/baodian/zero/notes/dns',
                   ]
                 },
                 

@@ -23,27 +23,6 @@ export const siteData = {
   ],
   "pages": [
     {
-      "title": "readme high",
-      "frontmatter": {},
-      "regularPath": "/baodian/high/",
-      "relativePath": "baodian/high/README.md",
-      "key": "v-2df240f0",
-      "path": "/baodian/high/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "readme high",
-          "slug": "readme-high"
-        },
-        {
-          "level": 3,
-          "title": "首页",
-          "slug": "首页"
-        }
-      ],
-      "lastUpdated": "2/19/2021, 12:37:14 PM"
-    },
-    {
       "title": "Home",
       "frontmatter": {
         "home": true,
@@ -73,33 +52,22 @@ export const siteData = {
       "lastUpdated": "2/19/2021, 12:37:14 PM"
     },
     {
-      "title": "深入JS之作用域链",
+      "title": "readme high",
       "frontmatter": {},
-      "regularPath": "/baodian/high/notes/DeepJS01.html",
-      "relativePath": "baodian/high/notes/DeepJS01.md",
-      "key": "v-14713a23",
-      "path": "/baodian/high/notes/DeepJS01.html",
+      "regularPath": "/baodian/high/",
+      "relativePath": "baodian/high/README.md",
+      "key": "v-2df240f0",
+      "path": "/baodian/high/",
       "headers": [
         {
           "level": 2,
-          "title": "作用域链",
-          "slug": "作用域链"
-        }
-      ],
-      "lastUpdated": "2/19/2021, 12:37:14 PM"
-    },
-    {
-      "title": "深入JS之词法作用域",
-      "frontmatter": {},
-      "regularPath": "/baodian/high/notes/DeepJS02.html",
-      "relativePath": "baodian/high/notes/DeepJS02.md",
-      "key": "v-29cde643",
-      "path": "/baodian/high/notes/DeepJS02.html",
-      "headers": [
+          "title": "readme high",
+          "slug": "readme-high"
+        },
         {
-          "level": 2,
-          "title": "词法作用域",
-          "slug": "词法作用域"
+          "level": 3,
+          "title": "首页",
+          "slug": "首页"
         }
       ],
       "lastUpdated": "2/19/2021, 12:37:14 PM"
@@ -126,6 +94,22 @@ export const siteData = {
       "lastUpdated": "2/19/2021, 12:37:14 PM"
     },
     {
+      "title": "深入JS之作用域链",
+      "frontmatter": {},
+      "regularPath": "/baodian/high/notes/DeepJS01.html",
+      "relativePath": "baodian/high/notes/DeepJS01.md",
+      "key": "v-14713a23",
+      "path": "/baodian/high/notes/DeepJS01.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "作用域链",
+          "slug": "作用域链"
+        }
+      ],
+      "lastUpdated": "2/19/2021, 12:37:14 PM"
+    },
+    {
       "title": "vuepress使用教程",
       "frontmatter": {},
       "regularPath": "/baodian/high/notes/two.html",
@@ -147,6 +131,64 @@ export const siteData = {
           "level": 3,
           "title": "自定义配置",
           "slug": "自定义配置"
+        }
+      ],
+      "lastUpdated": "2/19/2021, 12:37:14 PM"
+    },
+    {
+      "title": "readme zero",
+      "frontmatter": {},
+      "regularPath": "/baodian/zero/",
+      "relativePath": "baodian/zero/README.md",
+      "key": "v-b5cc6370",
+      "path": "/baodian/zero/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "readme zero",
+          "slug": "readme-zero"
+        },
+        {
+          "level": 3,
+          "title": "首页",
+          "slug": "首页"
+        }
+      ],
+      "lastUpdated": "2/19/2021, 12:37:14 PM"
+    },
+    {
+      "title": "深入JS之词法作用域",
+      "frontmatter": {},
+      "regularPath": "/baodian/high/notes/DeepJS02.html",
+      "relativePath": "baodian/high/notes/DeepJS02.md",
+      "key": "v-29cde643",
+      "path": "/baodian/high/notes/DeepJS02.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "词法作用域",
+          "slug": "词法作用域"
+        }
+      ],
+      "lastUpdated": "2/19/2021, 12:37:14 PM"
+    },
+    {
+      "title": "初级宝典测试",
+      "frontmatter": {},
+      "regularPath": "/baodian/zero/notes/bd1.html",
+      "relativePath": "baodian/zero/notes/bd1.md",
+      "key": "v-038b71fe",
+      "path": "/baodian/zero/notes/bd1.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "初级宝典测试",
+          "slug": "初级宝典测试"
+        },
+        {
+          "level": 3,
+          "title": "初级二次宝典",
+          "slug": "初级二次宝典"
         }
       ],
       "lastUpdated": "2/19/2021, 12:37:14 PM"
@@ -263,74 +305,6 @@ export const siteData = {
       "lastUpdated": "2/19/2021, 12:37:14 PM"
     },
     {
-      "title": "初级宝典测试",
-      "frontmatter": {},
-      "regularPath": "/baodian/zero/notes/bd1.html",
-      "relativePath": "baodian/zero/notes/bd1.md",
-      "key": "v-038b71fe",
-      "path": "/baodian/zero/notes/bd1.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "初级宝典测试",
-          "slug": "初级宝典测试"
-        },
-        {
-          "level": 3,
-          "title": "初级二次宝典",
-          "slug": "初级二次宝典"
-        }
-      ],
-      "lastUpdated": "2/19/2021, 12:37:14 PM"
-    },
-    {
-      "title": "使用指南",
-      "frontmatter": {},
-      "regularPath": "/guide/",
-      "relativePath": "guide/README.md",
-      "key": "v-786f585e",
-      "path": "/guide/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "使用指南",
-          "slug": "使用指南"
-        },
-        {
-          "level": 2,
-          "title": "1.基本语法 Basic Concept",
-          "slug": "_1-基本语法-basic-concept"
-        },
-        {
-          "level": 3,
-          "title": "词法语法",
-          "slug": "词法语法"
-        }
-      ],
-      "lastUpdated": "2/19/2021, 12:37:14 PM"
-    },
-    {
-      "title": "readme zero",
-      "frontmatter": {},
-      "regularPath": "/baodian/zero/",
-      "relativePath": "baodian/zero/README.md",
-      "key": "v-b5cc6370",
-      "path": "/baodian/zero/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "readme zero",
-          "slug": "readme-zero"
-        },
-        {
-          "level": 3,
-          "title": "首页",
-          "slug": "首页"
-        }
-      ],
-      "lastUpdated": "2/19/2021, 12:37:14 PM"
-    },
-    {
       "title": "前端知识",
       "frontmatter": {},
       "regularPath": "/guide/notes/one.html",
@@ -371,6 +345,197 @@ export const siteData = {
         }
       ],
       "lastUpdated": "2/19/2021, 12:37:14 PM"
+    },
+    {
+      "title": "使用指南",
+      "frontmatter": {},
+      "regularPath": "/guide/",
+      "relativePath": "guide/README.md",
+      "key": "v-786f585e",
+      "path": "/guide/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "使用指南",
+          "slug": "使用指南"
+        },
+        {
+          "level": 2,
+          "title": "1.基本语法 Basic Concept",
+          "slug": "_1-基本语法-basic-concept"
+        },
+        {
+          "level": 3,
+          "title": "词法语法",
+          "slug": "词法语法"
+        }
+      ],
+      "lastUpdated": "2/19/2021, 12:37:14 PM"
+    },
+    {
+      "title": "CDN 内容分发网络",
+      "frontmatter": {},
+      "regularPath": "/baodian/zero/notes/cdn.html",
+      "relativePath": "baodian/zero/notes/cdn.md",
+      "key": "v-7ed20e05",
+      "path": "/baodian/zero/notes/cdn.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "工作原理",
+          "slug": "工作原理"
+        },
+        {
+          "level": 2,
+          "title": "工作流程",
+          "slug": "工作流程"
+        },
+        {
+          "level": 2,
+          "title": "组成部分",
+          "slug": "组成部分"
+        },
+        {
+          "level": 2,
+          "title": "应用场景",
+          "slug": "应用场景"
+        },
+        {
+          "level": 3,
+          "title": "网站加速",
+          "slug": "网站加速"
+        },
+        {
+          "level": 3,
+          "title": "超大文件下载",
+          "slug": "超大文件下载"
+        },
+        {
+          "level": 3,
+          "title": "音视频点播",
+          "slug": "音视频点播"
+        },
+        {
+          "level": 3,
+          "title": "音视频直播",
+          "slug": "音视频直播"
+        },
+        {
+          "level": 3,
+          "title": "边缘程序",
+          "slug": "边缘程序"
+        },
+        {
+          "level": 2,
+          "title": "衡量指标",
+          "slug": "衡量指标"
+        },
+        {
+          "level": 3,
+          "title": "通用指标",
+          "slug": "通用指标"
+        },
+        {
+          "level": 3,
+          "title": "加速小文件的主要指标",
+          "slug": "加速小文件的主要指标"
+        },
+        {
+          "level": 3,
+          "title": "加速大文件下载的主要指标",
+          "slug": "加速大文件下载的主要指标"
+        },
+        {
+          "level": 3,
+          "title": "加速音视频点播的主要指标",
+          "slug": "加速音视频点播的主要指标"
+        },
+        {
+          "level": 2,
+          "title": "CDN 提供商",
+          "slug": "cdn-提供商"
+        },
+        {
+          "level": 3,
+          "title": "动态 CDN",
+          "slug": "动态-cdn"
+        },
+        {
+          "level": 3,
+          "title": "刷新预热",
+          "slug": "刷新预热"
+        }
+      ]
+    },
+    {
+      "title": "DNS 域名解析系统",
+      "frontmatter": {},
+      "regularPath": "/baodian/zero/notes/dns.html",
+      "relativePath": "baodian/zero/notes/dns.md",
+      "key": "v-5e8fbbe6",
+      "path": "/baodian/zero/notes/dns.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "域名的分层结构",
+          "slug": "域名的分层结构"
+        },
+        {
+          "level": 2,
+          "title": "DNS 的分层结构",
+          "slug": "dns-的分层结构"
+        },
+        {
+          "level": 2,
+          "title": "DNS 的记录类型",
+          "slug": "dns-的记录类型"
+        },
+        {
+          "level": 2,
+          "title": "DNS 解析过程",
+          "slug": "dns-解析过程"
+        },
+        {
+          "level": 2,
+          "title": "DNS 排查与优化",
+          "slug": "dns-排查与优化"
+        },
+        {
+          "level": 3,
+          "title": "常见问题",
+          "slug": "常见问题"
+        },
+        {
+          "level": 3,
+          "title": "故障排查顺序",
+          "slug": "故障排查顺序"
+        },
+        {
+          "level": 3,
+          "title": "常见优化技术",
+          "slug": "常见优化技术"
+        },
+        {
+          "level": 3,
+          "title": "常见优化方法",
+          "slug": "常见优化方法"
+        },
+        {
+          "level": 3,
+          "title": "DNS 污染解决方案",
+          "slug": "dns-污染解决方案"
+        },
+        {
+          "level": 2,
+          "title": "DNS 术语",
+          "slug": "dns-术语"
+        },
+        {
+          "level": 2,
+          "title": "常用 DNS",
+          "slug": "常用-dns"
+        }
+      ]
     }
   ],
   "themeConfig": {
